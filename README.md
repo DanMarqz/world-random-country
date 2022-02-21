@@ -15,7 +15,7 @@ world-random-country
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [world-random-country](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [world-random-country](https://github.com/DanMarqz/world-random-country)
 
 # License
 world-random-country is released under the [MIT License](https://opensource.org/licenses/MIT).
